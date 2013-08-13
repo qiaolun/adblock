@@ -22,6 +22,7 @@
 ||linezing.com^$third-party
 ||googlesyndication.com^$third-party
 ||baidu.com^$third-party
+||baidustatic.com^$third-party
 ||scorecardresearch.com^$third-party
 ||cn.yahoo.com^$third-party
 
