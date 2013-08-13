@@ -1,5 +1,5 @@
 [Adblock Plus 2.1]
-! Checksum: WexXH2FnK9wTb2Etn0K26w
+! Checksum: 3Zhyo79u4vAFKO4YmiseNg
 
 !---Privacy
 ||tjs.sjs.sinajs.cn^$third-party
@@ -7,7 +7,6 @@
 ||phpwind.net^$third-party
 ||mmstat.com^$third-party
 ||phpwind.com^$third-party
-||taobao.com^$third-party
 ||51.la^$third-party
 ||alimama.com^$third-party
 ||alimama.cn^$third-party

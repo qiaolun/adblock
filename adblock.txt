@@ -6,7 +6,6 @@
 ||phpwind.net^$third-party
 ||mmstat.com^$third-party
 ||phpwind.com^$third-party
-||taobao.com^$third-party
 ||51.la^$third-party
 ||alimama.com^$third-party
 ||alimama.cn^$third-party
