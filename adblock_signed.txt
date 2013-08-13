@@ -1,0 +1,36 @@
+[Adblock Plus 2.1]
+! Checksum: AvNKOt6peiohSS+IxeeLew
+
+!---Privacy
+||tjs.sjs.sinajs.cn^$third-party
+||google-analytics.com^$third-party
+||phpwind.net^$third-party
+||mmstat.com^$third-party
+||phpwind.com^$third-party
+||taobao.com^$third-party
+||51.la^$third-party
+||alimama.com^$third-party
+||alimama.cn^$third-party
+||wrating.com^$third-party
+||imrworldwide.com^$third-party
+||allyes.com^$third-party
+||cnzz.com^$third-party
+||gmodules.com^$third-party
+||doubleclick.net^$third-party
+||questionmarket.com^$third-party
+||optimost.com^$third-party
+||wpa.qq.com^$third-party
+||linezing.com^$third-party
+||googlesyndication.com^$third-party
+||baidu.com^$third-party
+||scorecardresearch.com^$third-party
+||cn.yahoo.com^$third-party
+
+
+!---sina
+http://d*.sina.com.cn$domain=~data.ent.sina.com.cn,~stylesheet
+http://pfp.sina.com.cn/
+beacon.sina.com.cn/
+counter.sina.com.cn/
+sina.com.cn##.adNone
+
