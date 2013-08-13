@@ -1,5 +1,5 @@
 [Adblock Plus 2.1]
-! Checksum: AvNKOt6peiohSS+IxeeLew
+! Checksum: WexXH2FnK9wTb2Etn0K26w
 
 !---Privacy
 ||tjs.sjs.sinajs.cn^$third-party
@@ -23,6 +23,7 @@
 ||linezing.com^$third-party
 ||googlesyndication.com^$third-party
 ||baidu.com^$third-party
+||baidustatic.com^$third-party
 ||scorecardresearch.com^$third-party
 ||cn.yahoo.com^$third-party
 
